@@ -50,11 +50,15 @@
 
 ![image](Screenshots/git_hard_reset.png)
 
-Затем принялся писать отчет в файле README.md, использую Markdown синтаксис
+Затем принялся писать отчет в файле README.md, использую Markdown синтаксис.  
 
+![image](Screenshots/new_branch_report.png)
 
+Получаем итоговую историю операций с помощью `git log`
 
+![image](Screenshots/last_log.png)
 
+После окончания написания отчета произвел команды `git add *` и `git commit -m "<text>"` и отправил изменения в удаленный репозиторий `git push <rep> <branch>`
 
 
 
